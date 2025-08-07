@@ -1,0 +1,15 @@
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\bin\Debug\net8.0\InheritanceApp.exe
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\bin\Debug\net8.0\InheritanceApp.deps.json
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\bin\Debug\net8.0\InheritanceApp.runtimeconfig.json
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\bin\Debug\net8.0\InheritanceApp.dll
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\bin\Debug\net8.0\InheritanceApp.pdb
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfoInputs.cache
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfo.cs
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.sourcelink.json
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.dll
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\refint\InheritanceApp.dll
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.pdb
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\InheritanceApp.genruntimeconfig.cache
+C:\Users\Kishki\dcit318-assignment2-11313444\InheritanceApp\obj\Debug\net8.0\ref\InheritanceApp.dll

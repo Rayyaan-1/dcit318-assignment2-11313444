@@ -1,0 +1,15 @@
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\bin\Debug\net8.0\AbstractApp.exe
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\bin\Debug\net8.0\AbstractApp.deps.json
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\bin\Debug\net8.0\AbstractApp.runtimeconfig.json
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\bin\Debug\net8.0\AbstractApp.dll
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\bin\Debug\net8.0\AbstractApp.pdb
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.AssemblyInfoInputs.cache
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.AssemblyInfo.cs
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.csproj.CoreCompileInputs.cache
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.sourcelink.json
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.dll
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\refint\AbstractApp.dll
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.pdb
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\AbstractApp.genruntimeconfig.cache
+C:\Users\Kishki\dcit318-assignment2-11313444\AbstractApp\obj\Debug\net8.0\ref\AbstractApp.dll
